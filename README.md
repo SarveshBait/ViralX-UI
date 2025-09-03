@@ -1,5 +1,3 @@
-Sure! Here’s a professional, human-readable README.md for your ViralX-UI project that will make it look polished on GitHub:
-
 ViralX-UI
 
 ViralX-UI is a modern, responsive React.js frontend for a content discovery and script management app. The app allows users to browse trending reels, edit scripts, save favorites, and view competitor analytics — all in a sleek, interactive UI built with Tailwind CSS.
